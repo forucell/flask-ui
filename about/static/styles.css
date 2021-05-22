@@ -1,0 +1,17 @@
+.alert.success {
+  color:green;
+}
+
+.alert.error {
+  color:red;
+}
+
+
+.error {
+    color: red;
+}
+
+
+.success {
+    color: green;
+}
